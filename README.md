@@ -1,10 +1,14 @@
 # Curso de Lógica de Programación por Sergie Code
 
+![Logica de Programacion](https://raw.githubusercontent.com/sergiecode/curso-logica-de-programacion/master/IMAGENES/Logica%20de%20programacion%20%281%29.png)
+
 ## PROGRAMACIÓN y PROGRAMADOR
 
 Programación es el proceso de crear instrucciones que le dicen a una computadora cómo realizar una tarea específica. Estas instrucciones se escriben en un lenguaje que la computadora pueda entender, conocido como lenguaje de programación. La programación implica la resolución de problemas, el diseño de algoritmos y la traducción de esos algoritmos en un código que la máquina pueda ejecutar.
 
 Ser un programador significa ser la persona que diseña, escribe, prueba y mantiene el código que permite que los programas de computadora funcionen. Los programadores no solo crean soluciones técnicas, sino que también aplican lógica y pensamiento crítico para resolver problemas de manera eficiente, traduciendo ideas abstractas en instrucciones precisas que una computadora puede seguir.
+
+![Logica de Programacion](https://raw.githubusercontent.com/sergiecode/curso-logica-de-programacion/master/IMAGENES/Logica%20de%20programacion%20%282%29.png)
 
 ## PENSAMIENTO COMPUTACIONAL
 
@@ -18,6 +22,8 @@ Este tipo de pensamiento no se limita a la programación, sino que puede aplicar
 - Desarrollo de algoritmos
 - Análisis y mejora de soluciones (Evaluación)
 
+![Logica de Programacion](https://raw.githubusercontent.com/sergiecode/curso-logica-de-programacion/master/IMAGENES/Logica%20de%20programacion%20%283%29.png)
+
 ## ¿Qué es un patrón?
 
 Un patrón es una repetición identificable y predecible de elementos o características en un conjunto de datos, situaciones o fenómenos.
@@ -28,6 +34,8 @@ Un patrón es una repetición identificable y predecible de elementos o caracter
 - Regularidad: Los patrones presentan una disposición consistente de sus elementos a lo largo del tiempo o del espacio.
 - Abstracción: Los patrones se pueden simplificar para representar información de forma más clara y manejable.
 
+![Logica de Programacion](https://raw.githubusercontent.com/sergiecode/curso-logica-de-programacion/master/IMAGENES/Logica%20de%20programacion%20%284%29.png)
+
 ## ¿Qué es un ALGORITMO?
 
 Un algoritmo es un conjunto de instrucciones precisas y ordenadas que se siguen para realizar una tarea específica o resolver un problema. 
@@ -37,6 +45,8 @@ Un algoritmo es un conjunto de instrucciones precisas y ordenadas que se siguen 
 - Finitud: Los algoritmos deben tener un número finito de pasos, terminando una vez alcanzado el objetivo o después de un número determinado de pasos.
 - Solución de problemas: Diseñados para resolver problemas específicos.
 - Eficiencia: Un buen algoritmo no solo logra el resultado deseado, sino que lo hace de manera eficiente, optimizando el uso de recursos como tiempo y memoria.
+
+![Logica de Programacion](https://raw.githubusercontent.com/sergiecode/curso-logica-de-programacion/master/IMAGENES/Logica%20de%20programacion%20%285%29.png)
 
 ## ANALISIS DE UN PROBLEMA
 
@@ -49,9 +59,15 @@ Es el proceso de comprender completamente un problema antes de diseñar una solu
 - Explorar soluciones alternativas: Antes de comprometerse con una solución específica, es útil considerar diferentes enfoques y evaluar sus ventajas y desventajas. Esto puede ayudar a encontrar la mejor manera de abordar el problema.
 - Establecer criterios de éxito: Definir claramente lo que constituirá una solución exitosa es crucial para evaluar el progreso y el rendimiento del programa una vez implementado. Estos criterios pueden incluir medidas de rendimiento, calidad, eficiencia, etc.
 
+![Logica de Programacion](https://raw.githubusercontent.com/sergiecode/curso-logica-de-programacion/master/IMAGENES/Logica%20de%20programacion%20%289%29.png)
+![Logica de Programacion](https://raw.githubusercontent.com/sergiecode/curso-logica-de-programacion/master/IMAGENES/Logica%20de%20programacion%20%2810%29.png)
+![Logica de Programacion](https://raw.githubusercontent.com/sergiecode/curso-logica-de-programacion/master/IMAGENES/Logica%20de%20programacion%20%2811%29.png)
+
 ## ESTRUCTURAS DE CONTROL
 
 Las estructuras de control son un conjunto de instrucciones en un programa que permiten alterar el flujo de ejecución de las operaciones, es decir, dictan cómo y cuándo se deben ejecutar las distintas partes del código. Estas estructuras son fundamentales en la programación, ya que sin ellas, los programas seguirían una ejecución secuencial y lineal, sin poder realizar decisiones, repeticiones o desviaciones en el flujo del programa.
+
+![Logica de Programacion](https://raw.githubusercontent.com/sergiecode/curso-logica-de-programacion/master/IMAGENES/Logica%20de%20programacion%20%2812%29.png)
 
 ### Estructuras Condicionales:
 
@@ -60,6 +76,12 @@ Las estructuras condicionales permiten que el programa tome decisiones y ejecute
 ### Estructuras de Iteración:
 
 Los bucles son estructuras de control que permiten repetir una o varias instrucciones múltiples veces, hasta que se cumpla una condición específica. Existen varios tipos de bucles, siendo los más comunes while, for, y do-while.
+
+![Logica de Programacion](https://raw.githubusercontent.com/sergiecode/curso-logica-de-programacion/master/IMAGENES/Logica%20de%20programacion%20%2813%29.png)
+![Logica de Programacion](https://raw.githubusercontent.com/sergiecode/curso-logica-de-programacion/master/IMAGENES/Logica%20de%20programacion%20%2814%29.png)
+![Logica de Programacion](https://raw.githubusercontent.com/sergiecode/curso-logica-de-programacion/master/IMAGENES/Logica%20de%20programacion%20%2815%29.png)
+![Logica de Programacion](https://raw.githubusercontent.com/sergiecode/curso-logica-de-programacion/master/IMAGENES/Logica%20de%20programacion%20%2816%29.png)
+![Logica de Programacion](https://raw.githubusercontent.com/sergiecode/curso-logica-de-programacion/master/IMAGENES/Logica%20de%20programacion%20%2817%29.png)
 
 ## Variables
 
@@ -73,6 +95,10 @@ Definen la naturaleza de los valores que pueden ser manipulados en un programa. 
 
 Permiten manipular y comparar los datos almacenados en variables para producir nuevos valores, tomar decisiones y controlar el flujo del programa.
 
+![Logica de Programacion](https://raw.githubusercontent.com/sergiecode/curso-logica-de-programacion/master/IMAGENES/Logica%20de%20programacion%20%2818%29.png)
+![Logica de Programacion](https://raw.githubusercontent.com/sergiecode/curso-logica-de-programacion/master/IMAGENES/Logica%20de%20programacion%20%2819%29.png)
+![Logica de Programacion](https://raw.githubusercontent.com/sergiecode/curso-logica-de-programacion/master/IMAGENES/Logica%20de%20programacion%20%2820%29.png)
+
 ## Funciones
 
 Las funciones o procedimientos son bloques de código que realizan una tarea específica y que pueden ser reutilizados a lo largo del programa. Su uso permite mejorar la organización, la legibilidad y la mantenibilidad del código.
@@ -80,6 +106,10 @@ Las funciones o procedimientos son bloques de código que realizan una tarea esp
 ## Modularidad
 
 La modularidad se refiere a la práctica de dividir un programa en partes más pequeñas y manejables, llamadas módulos o funciones. Esto tiene varios beneficios:
+
+![Logica de Programacion](https://raw.githubusercontent.com/sergiecode/curso-logica-de-programacion/master/IMAGENES/Logica%20de%20programacion%20%2821%29.png)
+![Logica de Programacion](https://raw.githubusercontent.com/sergiecode/curso-logica-de-programacion/master/IMAGENES/Logica%20de%20programacion%20%2822%29.png)
+![Logica de Programacion](https://raw.githubusercontent.com/sergiecode/curso-logica-de-programacion/master/IMAGENES/Logica%20de%20programacion%20%2823%29.png)
 
 ## Estructura de Datos:
 
@@ -93,6 +123,10 @@ La Estructura de Datos en programación es una manera organizada y eficiente de 
 - Grafos (Graphs): Conjunto de nodos conectados por aristas (edges), útil para representar relaciones complejas entre datos.
 - Hash Tables: Estructura que almacena pares clave-valor, permitiendo un acceso rápido a los datos a través de una función hash.
 
+![Logica de Programacion](https://raw.githubusercontent.com/sergiecode/curso-logica-de-programacion/master/IMAGENES/Logica%20de%20programacion%20%2824%29.png)
+![Logica de Programacion](https://raw.githubusercontent.com/sergiecode/curso-logica-de-programacion/master/IMAGENES/Logica%20de%20programacion%20%2825%29.png)
+![Logica de Programacion](https://raw.githubusercontent.com/sergiecode/curso-logica-de-programacion/master/IMAGENES/Logica%20de%20programacion%20%2826%29.png)
+
 ## Paradigmas de programación
 
 Un paradigma de programación es un enfoque o estilo particular de programación que guía y estructura el desarrollo de software. Un paradigma define la manera en que los programadores conceptualizan y organizan los problemas que deben resolver, y dicta cómo se deben estructurar las soluciones en términos de lenguajes de programación y metodologías.
@@ -101,6 +135,8 @@ Un paradigma de programación es un enfoque o estilo particular de programación
 - Programación Orientada a Objetos (OOP): Organiza el software en objetos que encapsulan datos y comportamientos. Ejemplos: Java
 - Programación Funcional: Se basa en funciones puras, evitando el estado mutable y los efectos secundarios.
 - Programación Declarativa: El programador especifica qué se debe hacer, no cómo hacerlo. Ejemplos: SQL
+
+![Logica de Programacion](https://raw.githubusercontent.com/sergiecode/curso-logica-de-programacion/master/IMAGENES/Logica%20de%20programacion%20%2827%29.png)
 
 ## PSEUDOCÓDIGO
 
@@ -113,6 +149,10 @@ El pseudocódigo es una forma de escribir algoritmos utilizando un lenguaje info
 - Estructuras lógicas: Emplea estructuras como condicionales, bucles y asignaciones de manera simple y directa.
 - Enfoque en la lógica: Se concentra en la lógica y secuencia de pasos más que en detalles técnicos.
 
+![Logica de Programacion](https://raw.githubusercontent.com/sergiecode/curso-logica-de-programacion/master/IMAGENES/Logica%20de%20programacion%28%2828%29.png)
+![Logica de Programacion](https://raw.githubusercontent.com/sergiecode/curso-logica-de-programacion/master/IMAGENES/Logica%20de%20programacion%20%2829%29.png)
+![Logica de Programacion](https://raw.githubusercontent.com/sergiecode/curso-logica-de-programacion/master/IMAGENES/Logica%20de%20programacion%20%2830%29.png)
+
 ## Diagramas de Flujo
 
 Un diagrama de flujo es una representación gráfica de un proceso o algoritmo, donde se utilizan símbolos y flechas para mostrar la secuencia de pasos y la relación entre ellos. Es una herramienta visual que facilita la comprensión, el análisis y la comunicación de procesos complejos.
@@ -123,6 +163,11 @@ Un diagrama de flujo es una representación gráfica de un proceso o algoritmo, 
 - Identificación de problemas: Ayuda a identificar cuellos de botella, redundancias y otros problemas en un proceso.
 - Facilita la comunicación: Es útil para explicar procesos a personas de diferentes niveles de conocimiento.
 - Aplicaciones variadas: Se usa en diferentes campos, como programación, ingeniería, administración y más.
+
+![Logica de Programacion](https://raw.githubusercontent.com/sergiecode/curso-logica-de-programacion/master/IMAGENES/Logica%20de%20programacion%20%2831%29.png)
+![Logica de Programacion](https://raw.githubusercontent.com/sergiecode/curso-logica-de-programacion/master/IMAGENES/Logica%20de%20programacion%20%2832%29.png)
+![Logica de Programacion](https://raw.githubusercontent.com/sergiecode/curso-logica-de-programacion/master/IMAGENES/Logica%20de%20programacion%20%2833%29.png)
+![Logica de Programacion](https://raw.githubusercontent.com/sergiecode/curso-logica-de-programacion/master/IMAGENES/Logica%20de%20programacion%20%2834%29.png)
 
 ## EJEMPLO PRACTICO FINAL:
 
@@ -139,3 +184,6 @@ Sara está investigando cómo la temperatura influye en la velocidad de una reac
 - Explorar soluciones alternativas: Las posibles soluciones incluyen realizar conversiones manualmente, usar herramientas de hojas de cálculo como Excel, escribir un script para automatizar el proceso, o utilizar software especializado en análisis de datos.
 - Establecer criterios de éxito: El éxito se mide por la precisión de la conversión, la eficiencia en el manejo de grandes volúmenes de datos, la correcta integración de los datos convertidos con los resultados experimentales, y la facilidad de uso del método elegido.
 
+![Logica de Programacion](https://raw.githubusercontent.com/sergiecode/curso-logica-de-programacion/master/IMAGENES/Logica%20de%20programacion%20%2835%29.png)
+![Logica de Programacion](https://raw.githubusercontent.com/sergiecode/curso-logica-de-programacion/master/IMAGENES/Logica%20de%20programacion%20%2836%29.png)
+![Logica de Programacion](https://raw.githubusercontent.com/sergiecode/curso-logica-de-programacion/master/IMAGENES/Logica%20de%20programacion%20%2837%29.png)
